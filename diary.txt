@@ -1,0 +1,6 @@
+date: 21/09/2025
+  topics leared => basic graph concepts
+                => adjacency matrix representation
+                => basic graph operations
+                => 2d vectors and basic operations
+                => convert from bin to dec, dec to bin using brute force approach.
